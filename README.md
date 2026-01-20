@@ -23,12 +23,11 @@ PODD is a plug-and-play framework designed to tackle the challenge of maintainin
 
 ## Project Structure
 
-.
+
 ├── dataset/               
 │   ├── bail/
 │   ├── credit/
 │   └── pokec/
-.
 ├── models/                
 │   ├── _init_.py         
 │   ├── gcn.py          
